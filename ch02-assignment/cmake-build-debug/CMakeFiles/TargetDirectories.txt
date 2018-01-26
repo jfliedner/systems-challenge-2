@@ -1,0 +1,3 @@
+/Users/Jillian/Desktop/ch02-assignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Jillian/Desktop/ch02-assignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Jillian/Desktop/ch02-assignment/cmake-build-debug/CMakeFiles/ch02_assignment.dir
